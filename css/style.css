@@ -1,0 +1,42 @@
+section {
+  font-family: "Roboto", sans-serif;
+}
+.bangla {
+  font-family: "Noto Serif Bengali", serif;
+}
+.hmlu {
+  height: 30px;
+}
+.hml {
+  height: 50px;
+}
+.stbt {
+  background-color: #f07b3f !important;
+  border-color: none;
+  color: white;
+}
+.stfb {
+  height: 2rem;
+  margin-right: 10px;
+}
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+.stfi {
+  height: 1.5rem;
+}
+.footer-last {
+  background-color: #212529;
+}
+.foicon {
+  width: 2rem;
+}
+.cinfo {
+  font-weight: bold;
+}
+.chpp {
+  background-color: #f07b3f;
+  color: white;
+}
